@@ -1,4 +1,4 @@
-# bash-script# bash-script
+# bash-script
 
 A short bash script made to calculate the midterm average of the class. Various shell/UNIX tools used to filter out unnessary data and return only the part needed to calculate the average.
 
