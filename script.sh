@@ -14,4 +14,4 @@ total=`wc -l < $newfile`
 average=$((sum / total))
 
 # Print the average
-echo "The class average is" $average
+echo "The class average is" $average " out of 70."
